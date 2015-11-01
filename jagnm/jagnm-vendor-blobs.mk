@@ -231,7 +231,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/jagnm/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/jagnm/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lge/jagnm/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-	vendor/lge/g3s-common/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
+	vendor/lge/jagnm/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/lge/jagnm/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/lge/jagnm/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/jagnm/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
