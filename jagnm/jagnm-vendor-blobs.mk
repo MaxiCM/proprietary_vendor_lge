@@ -229,21 +229,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/jagnm/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/lge/jagnm/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/jagnm/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/lge/jagnm/proprietary/bin/rild:system/bin/rild \
     vendor/lge/jagnm/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lge/jagnm/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-    vendor/lge/jagnm/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/lge/jagnm/proprietary/lib/libril.so:system/lib/libril.so \
+	vendor/lge/g3s-common/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/lge/jagnm/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/lge/jagnm/proprietary/lib/libuicc.so:system/lib/libuicc.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_common_core.so:system/lib/libvss_common_core.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_nv_idl.so:system/lib/libvss_nv_idl.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_nv_iface.so:system/lib/libvss_nv_iface.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_dmi_qcci.so:system/lib/libvss_dmi_qcci.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_ims_qcci.so:system/lib/libvss_ims_qcci.so \
-    vendor/lge/jagnm/proprietary/lib/libvss_nv_core.so:system/lib/libvss_nv_core.so \
     vendor/lge/jagnm/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/lge/jagnm/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/lge/jagnm/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
