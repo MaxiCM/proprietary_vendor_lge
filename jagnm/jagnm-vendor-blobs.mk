@@ -57,6 +57,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/jagnm/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/lge/jagnm/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/lge/jagnm/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/lge/jagnm/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/lge/jagnm/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/lge/jagnm/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/lge/jagnm/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/lge/jagnm/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/lge/jagnm/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/jagnm/proprietary/vendor/firmware/BCM4334B0_002.001.013.1820.2163.hcd:system/vendor/firmware/BCM4334B0_002.001.013.1820.2163.hcd \
     vendor/lge/jagnm/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
