@@ -103,4 +103,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8226-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/lge/msm8226-common/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
     vendor/lge/msm8226-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
-    vendor/lge/msm8226-common/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so
+    vendor/lge/msm8226-common/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
+    vendor/lge/msm8226-common/proprietary/bin/irrcServer:system/bin/irrcServer \
+    vendor/lge/msm8226-common/proprietary/lib/libirrcJni.so:system/lib/libirrcJni.so
