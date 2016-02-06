@@ -28,6 +28,9 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     libscale \
+    liblgewg \
+    libirrcClient \
+    libirrc
 
 PRODUCT_PACKAGES += \
     libwvdrmengine \

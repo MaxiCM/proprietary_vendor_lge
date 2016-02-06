@@ -236,7 +236,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/jagnm/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/jagnm/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lge/jagnm/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-	vendor/lge/jagnm/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
+    vendor/lge/jagnm/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/lge/jagnm/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/lge/jagnm/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/jagnm/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
@@ -267,4 +267,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/jagnm/proprietary/vendor/lib/libcneqmiutils.so:system/vendor/lib/libcneqmiutils.so \
     vendor/lge/jagnm/proprietary/bin/bdaddr_loader:system/bin/bdaddr_loader \
     vendor/lge/jagnm/proprietary/lib/liblgftmitem.so:system/lib/liblgftmitem.so \
-    vendor/lge/jagnm/proprietary/lib/libatd_corelib.so:system/lib/libatd_corelib.so
+    vendor/lge/jagnm/proprietary/lib/libatd_corelib.so:system/lib/libatd_corelib.so \
+    vendor/lge/jagnm/proprietary/bin/irrcServer:system/bin/irrcServer \
+    vendor/lge/jagnm/proprietary/lib/libirrcJni.so:system/lib/libirrcJni.so
