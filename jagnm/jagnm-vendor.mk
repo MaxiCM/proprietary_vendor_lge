@@ -24,9 +24,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
-    TimeService \
-    QuicksetSDK \
-    QuickRemote
+    TimeService
 
 PRODUCT_PACKAGES += \
     libscale \
